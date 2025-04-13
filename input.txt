@@ -1,4 +1,0 @@
-1 Alice 25
-2 Bob 30
-3 Charlie 22
-4 Alice 12
