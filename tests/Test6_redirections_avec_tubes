@@ -1,0 +1,1 @@
+grep Alice < input.txt | grep 1 > output.txt 

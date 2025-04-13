@@ -1,0 +1,5 @@
+sleep 50
+cntrl+Z
+jobs
+bg 1
+jobs
